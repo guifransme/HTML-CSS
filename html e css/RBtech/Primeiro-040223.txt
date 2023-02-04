@@ -1,0 +1,29 @@
+HTML E css
+
+    O que é HTML??
+
+R: html é a abreviação dee uma expressão
+inglesa  que chama hypertext  markup Language
+ou Linguagem de marcação de Hypertexto 
+E serve Basicamente  para Produzir Páginas web.
+  Os Documentos HTML são Interpretados pelos Navegadorer
+ou   Browsers  como o FireFox, Google chrome, Edge, Opera 
+e etc.
+
+    E basicamente tudo que é exibido nesses  navegadores é 
+feito através de HTML.
+
+     Nós não podemos imaginar hoje a possibilidade  de uma 
+página web sem  HTML.
+
+     tudo na Internet gira em torno do HTML, Por exemplo: Se 
+voce estudar  uma Linguagem de  Programação  para web como PHP 
+por exemplo  voce vai ver que essa linguagem nada mais é  do 
+que um geraldor dimanico de de html.
+
+    Se voce estuda Carrie ou JavaScript voce vai ver que essas 
+linguagens , elas podem Maniipular os elementos HTML para  tornálos 
+mais dinamicos e interativos.
+
+    O css Server para estilizar, para dar aparencia para o  HTML.
+    Então Tudo gira em torno do Html. 
