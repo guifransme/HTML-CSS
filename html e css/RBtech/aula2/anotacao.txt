@@ -1,0 +1,26 @@
+    Na primeira aula Criamos o Arquivo 
+"estrutura basica.HTML".
+    Esse Arquivo vou cridao e editado por 
+um "abroco de notas  do computador, ou otro editor 
+de texto ai dentro do seu sistema  operacional.
+    mas vamos Combinar que desenvolver sites, criar 
+paginas de internet utilizando  o bloco de notas é a
+poir Burrice   que alguem pode cometer.
+    POr que editor de texto  basico, simples utilizando,
+não oferece recursos simples, que a gente precisa para códificar 
+co pordutividade e com facilidade acima de tudo.
+    Então a gente vai escolher uma IDE, ou um ambiente de desenvime-
+nto ou editor mais complexo um pouco para trabalhar.
+    A partir desse Momento nós sabem que existe várias opções de 
+aplicativos, programas para isso no mercado.
+    começando  com um  bloco de notas  melhorado que seria o NODEPAD++,
+nós temos também o dreamweaver, arptando  studio, code lover, netbeans, 
+e temos o Sublime Text, Visual Studio Code.
+    O Visual Studio Code é um dos melhores e um dos melhores, e um dos que mais 
+traz custo benficio  para quem esta começando agora.
+    Por Que ??
+    Ele é um aplicativo leve, tej para todos os sistemas operacionais , voce pode 
+usar  ele tanto no Windows, quanto no MAC, quanto no Linux, sem problema algum , e 
+voce vai ter um editor poderoso  e simples ao mesmo tempo.
+    E essa vai ser a escolha que a gente vai adotar a partir de  agora, para editar os 
+nossos Documentos. 
